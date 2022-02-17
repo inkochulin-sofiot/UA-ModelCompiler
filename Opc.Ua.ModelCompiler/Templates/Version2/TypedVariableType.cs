@@ -4,7 +4,7 @@
 /// </summary>
 /// <exclude />
 [System.CodeDom.Compiler.GeneratedCodeAttribute("Opc.Ua.ModelCompiler", "1.0.0.0")]
-public class _TypeName_State<T> : _TypeName_State
+public partial class _TypeName_State<T> : _TypeName_State
 {
     #region Constructors
     /// <summary>
@@ -57,7 +57,7 @@ public class _TypeName_State<T> : _TypeName_State
 /// </summary>
 /// <exclude />
 [System.CodeDom.Compiler.GeneratedCodeAttribute("Opc.Ua.ModelCompiler", "1.0.0.0")]
-public class _ClassName_State<T> : _ClassName_State
+public partial class _ClassName_State<T> : _ClassName_State
 {
     #region Constructors
     /// <summary>
